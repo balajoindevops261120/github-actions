@@ -4,6 +4,6 @@ jobs:
   Hello:
     runs-on: ubuntu-latest
     steps:
-      - namw: Print Hello World
+      - name: Print Hello World
         run:  echo "Hello   World"
       
